@@ -30,7 +30,8 @@ The calculator is implemented in Java using Java Swing for the graphical user in
 
 ## Output
 
-![Calculator Output](link_to_your_image)
+![Calculator Output](Images/Output1.png)
+![Calculator Output](Images/Output2.png)
 
 ## How to Run
 
